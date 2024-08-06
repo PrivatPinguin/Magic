@@ -9,5 +9,5 @@ job = Job()
 #now, it's done
 job.done()
 
-#enjoy the megagic in your terminal
+#enjoy the magic in your terminal
 ```
