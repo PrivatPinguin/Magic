@@ -6,6 +6,6 @@ from Magic import Job
 #create your job
 job = Job()
 
-#not it's done
+#now, it's done
 job.done()
 ```
